@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "149016866571",
+    "project_id": "mahnoorasim-3aeb6",
+    "storage_bucket": "mahnoorasim-3aeb6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149016866571:android:454dc926d130953328bc0e",
+        "android_client_info": {
+          "package_name": "com.mahnoorasim"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzVXnysVO7-5EtmIJIdt2c4KW94OIionE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
